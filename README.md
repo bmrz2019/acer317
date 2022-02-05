@@ -80,35 +80,35 @@ Graphics:
 
 ## Images
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/01.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/01.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/02.png "02")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/02.png "02")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/03.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/03.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/04.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/04.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/05.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/05.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/06.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/06.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/07.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/07.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/08.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/08.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/09.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/09.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/10.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/10.png "01")
 
 ### Yes it is https://wiki.lxde.org/en/Main_Page
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/11.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/11.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/12.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/12.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/13.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/13.png "01")
 
-![alt text](https://raw.githubusercontent.com/treble2019/Acer-Aspire-A317-33-P4X1/main/14.png "01")
+![alt text](https://raw.githubusercontent.com/bmrz2019/acer317/main/14.png "01")
 
 
 
